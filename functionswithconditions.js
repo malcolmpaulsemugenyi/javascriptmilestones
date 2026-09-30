@@ -9,3 +9,12 @@ function addtwonumbers(u, v){
 }
 addtwonumbers(5, 7)
 addtwonumbers(120, 122)
+function name(name){
+    if(name == "malcolm"){
+        console.log("this is me")
+    }
+    else {
+        console.log("this is not me")
+    }
+}
+name("malcolm")
